@@ -91,7 +91,7 @@ main {
   scroll-snap-stop: always ;
 
 }
-.main section .all-reels .reel img {
+.main section .all-reels .reel video {
   height: 100%;
   width: 100%;
   object-fit: cover;
@@ -168,6 +168,9 @@ cursor: pointer;
 .main section .all-reels .reel .right h6{
   font-size: 15px;
   font-weight: 500;
+}
+.main section .all-reels .reel .right .love{
+  color: red;
 }
 
 

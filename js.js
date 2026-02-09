@@ -64,16 +64,28 @@ users.forEach(function (user) {
 const reels = [
   {
     username: "codewithayush",
-    likeCount: 14820,
+    likeCount: 148200,
     isLiked: true,
     commentCount: 423,
     shareCount: 92,
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
-    video: "",
-    userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
+    video: "video1.mp4",
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
-   {
+  {
+    username: "codewithayush",
+    likeCount: 14820,
+    isLiked: false,
+    commentCount: 423,
+    shareCount: 92,
+    isFollowed: true,
+    caption: "Dark mode light mode. Change my mind.",
+    video: "",
+    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0",
+  },
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -82,9 +94,10 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0"
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -93,9 +106,9 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-     userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
+    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -104,9 +117,10 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0"
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -115,9 +129,9 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
+    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -126,9 +140,10 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0"
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -137,9 +152,9 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
+    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -148,9 +163,10 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0"
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -159,9 +175,9 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
+    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -170,9 +186,10 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0"
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -181,9 +198,9 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
+    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -192,9 +209,10 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0"
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -203,9 +221,9 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
+    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -214,9 +232,10 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0"
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -225,9 +244,10 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -236,9 +256,9 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
+    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -247,9 +267,9 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0"
+    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -258,9 +278,10 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-    userprofile: "https://images.unsplash.com/photo-1603415526960-f7e0328d64f0"
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
-   {
+  {
     username: "codewithayush",
     likeCount: 14820,
     isLiked: true,
@@ -269,37 +290,29 @@ const reels = [
     isFollowed: true,
     caption: "Dark mode light mode. Change my mind.",
     video: "",
-   userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
-  },
-   {
-    username: "codewithayush",
-    likeCount: 14820,
-    isLiked: true,
-    commentCount: 423,
-    shareCount: 92,
-    isFollowed: true,
-    caption: "Dark mode light mode. Change my mind.",
-    video: "",
-    userprofile: "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg"
+    userprofile:
+      "https://i.pinimg.com/736x/d4/ba/0f/d4ba0fbb78f38426fdc8d22a9bc11cb8.jpg",
   },
 ];
 
 let reel = "";
 
-reels.forEach(function(vid){
-  reel = reel + `          <div class="reel">
-            <img class="main-img" src="https://i.pinimg.com/736x/ff/34/76/ff34762cffec82eb845251c57d0ad148.jpg" alt="">
+reels.forEach(function (vid) {
+  reel =
+    reel +
+    `          <div class="reel">
+            <video  autoplay loop muted src="${vid.video}"></video>
             <div class="bottom">
               <div class="user">
                 <img src="${vid.userprofile}" alt="">
                 <h4>${vid.username}</h4>
-                <button>${vid.isFollowed?"Unfollow":"Follow"}</button>
+                <button>${vid.isFollowed ? "Unfollow" : "Follow"}</button>
               </div>
-              <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim</h3>
+              <h3>${vid.caption}</h3>
             </div>
             <div class="right">
               <div class="like">
-                <h4 class="like-icon icon"><i class="ri-heart-3-line"></i></h4>
+                <h4 class="like-icon icon">${vid.isLiked ? '<i class="ri-poker-hearts-fill love"></i>' : '<i class="ri-heart-3-line"></i>'  }</h4>
                 <h6>${vid.likeCount}</h4>
               </div>
               <div class="comment">
@@ -315,8 +328,7 @@ reels.forEach(function(vid){
               </div>
             </div>
           </div>`;
+});
 
-})
-
-const allreel = document.querySelector(".all-reels")
-allreel.innerHTML = reel
+const allreel = document.querySelector(".all-reels");
+allreel.innerHTML = reel;
